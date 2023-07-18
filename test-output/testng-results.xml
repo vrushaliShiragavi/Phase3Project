@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T04:27:23Z" name="Default suite" finished-at="2023-07-18T04:27:28Z" duration-ms="4649">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T04:27:23Z" name="Default test" finished-at="2023-07-18T04:27:28Z" duration-ms="4649">
+      <class name="phase3project.EndToEndTest">
+        <test-method signature="TC01_GetAllEmployee()[pri:0, instance:phase3project.EndToEndTest@68dc098b]" started-at="2023-07-18T04:27:23Z" name="TC01_GetAllEmployee" finished-at="2023-07-18T04:27:27Z" duration-ms="3359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_GetAllEmployee -->
+        <test-method signature="TC02_CreateEmployee()[pri:0, instance:phase3project.EndToEndTest@68dc098b]" started-at="2023-07-18T04:27:27Z" name="TC02_CreateEmployee" finished-at="2023-07-18T04:27:27Z" duration-ms="702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_CreateEmployee -->
+        <test-method signature="TC03_UpdateEmployee()[pri:0, instance:phase3project.EndToEndTest@68dc098b]" started-at="2023-07-18T04:27:27Z" name="TC03_UpdateEmployee" finished-at="2023-07-18T04:27:28Z" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_UpdateEmployee -->
+        <test-method signature="TC04_GetEmployee()[pri:0, instance:phase3project.EndToEndTest@68dc098b]" started-at="2023-07-18T04:27:28Z" name="TC04_GetEmployee" finished-at="2023-07-18T04:27:28Z" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_GetEmployee -->
+        <test-method signature="TC05_DeleteEmployee()[pri:0, instance:phase3project.EndToEndTest@68dc098b]" started-at="2023-07-18T04:27:28Z" name="TC05_DeleteEmployee" finished-at="2023-07-18T04:27:28Z" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_DeleteEmployee -->
+        <test-method signature="TC06_GetEmployee()[pri:0, instance:phase3project.EndToEndTest@68dc098b]" started-at="2023-07-18T04:27:28Z" name="TC06_GetEmployee" finished-at="2023-07-18T04:27:28Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_GetEmployee -->
+        <test-method signature="TC07_GetAllEmployee()[pri:0, instance:phase3project.EndToEndTest@68dc098b]" started-at="2023-07-18T04:27:28Z" name="TC07_GetAllEmployee" finished-at="2023-07-18T04:27:28Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_GetAllEmployee -->
+      </class> <!-- phase3project.EndToEndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
